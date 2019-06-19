@@ -1,0 +1,93 @@
+{
+    "format": {
+        "version": "1.0"
+    },
+    "shaders": {
+        "Main shader": {
+            "parameters": {
+                "Common Parameters": {
+                    "alpha_dither": false,
+                    "alpha_threshold": 0.33000001311302185,
+                    "ao_intensity": 0.75,
+                    "emissive_intensity": 1,
+                    "height_force": 1,
+                    "horizonFade": 1.2999999523162842,
+                    "nbSamples": 64
+                },
+                "Parallax Occlusion Mapping": {
+                    "maxPOMSamples": 16,
+                    "minPOMSamples": 4,
+                    "pomStrength": 1,
+                    "usePOM": false
+                }
+            },
+            "shader": "pbr-metal-rough-with-alpha-test",
+            "shaderInstance": "Main shader"
+        }
+    },
+    "texturesets": {
+        "Carpet": {
+            "shader": "Main shader"
+        },
+        "Chimney": {
+            "shader": "Main shader"
+        },
+        "Concrete": {
+            "shader": "Main shader"
+        },
+        "Door_ Interior": {
+            "shader": "Main shader"
+        },
+        "Door_Front": {
+            "shader": "Main shader"
+        },
+        "Door_Garage": {
+            "shader": "Main shader"
+        },
+        "Door_Slide": {
+            "shader": "Main shader"
+        },
+        "Entrance_Feature": {
+            "shader": "Main shader"
+        },
+        "Garage": {
+            "shader": "Main shader"
+        },
+        "Gutter": {
+            "shader": "Main shader"
+        },
+        "Roof": {
+            "shader": "Main shader"
+        },
+        "Tile_Entrance": {
+            "shader": "Main shader"
+        },
+        "Walls_Exterior": {
+            "shader": "Main shader"
+        },
+        "Walls_Interior": {
+            "shader": "Main shader"
+        },
+        "Walls_Interior2": {
+            "shader": "Main shader"
+        },
+        "Walls_InteriorRoof": {
+            "shader": "Main shader"
+        },
+        "Window_1": {
+            "shader": "Main shader"
+        },
+        "Window_2": {
+            "shader": "Main shader"
+        },
+        "Wood": {
+            "shader": "Main shader"
+        },
+        "glass": {
+            "shader": "Main shader"
+        },
+        "path": {
+            "shader": "Main shader"
+        }
+    }
+}

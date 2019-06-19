@@ -1,0 +1,1253 @@
+fileFormatVersion: 2
+guid: 31d02e67dd15a514382bf0bcfdbfc7f0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone 1
+    100004: Bone 2
+    100006: Bone 3
+    100008: Bone 4
+    100010: Bone 5
+    100012: Bone 6
+    100014: Bone 7
+    100016: Bone 8
+    100018: Bone 9
+    100020: Bone.001
+    100022: Bone.001 1
+    100024: Bone.001 2
+    100026: Bone.001 3
+    100028: Bone.001 4
+    100030: Bone.001 5
+    100032: Bone.001 6
+    100034: Bone.001 7
+    100036: Bone.001 8
+    100038: Bone.002
+    100040: Bone.002 1
+    100042: Bone.003
+    100044: Bone.003 1
+    100046: Bone.004
+    100048: Bone.004 1
+    100050: Bone.005
+    100052: Bone.005 1
+    100054: Bone.006
+    100056: Bone.006 1
+    100058: Bone.007
+    100060: Bone.007 1
+    100062: Bone.008
+    100064: Bone.008 1
+    100066: Bone.009
+    100068: Bone.009 1
+    100070: Bone.010
+    100072: Bone.010 1
+    100074: Bone.011
+    100076: Bone.011 1
+    100078: Bone.012
+    100080: Bone.012 1
+    100082: Bone.013
+    100084: Bone.013 1
+    100086: Bone.014
+    100088: Bone.014 1
+    100090: Bone.015
+    100092: Bone.015 1
+    100094: Bone.015_end
+    100096: Bone.015_end 1
+    100098: Bone_end
+    100100: Bone_end 1
+    100102: Bone_end 2
+    100104: Bone_end 3
+    100106: Bone_end 4
+    100108: Bone_end 5
+    100110: Bone_end 6
+    100112: Bone_end 7
+    100114: Column_arch
+    100116: Column_arch.001
+    100118: Cube
+    100120: Cube.001
+    100122: Cube.002
+    100124: Cube.003
+    100126: Cube.004
+    100128: Cube.005
+    100130: Cube.006
+    100132: Cube.007
+    100134: Cube.008
+    100136: Cube.009
+    100138: Cube.010
+    100140: Cube.011
+    100142: Cube.012
+    100144: Cube.013
+    100146: Cube.014
+    100148: Cube.015
+    100150: Cube.016
+    100152: Cube.017
+    100154: Cube.018
+    100156: Cube.019
+    100158: Cube.020
+    100160: Cube.021
+    100162: Cube.022
+    100164: Cube.037
+    100166: Cube_001_001
+    100168: Cube_001_001.001
+    100170: Cube_001_001.002
+    100172: Cube_001_001.003
+    100174: Cube_005
+    100176: Cube_005.001
+    100178: Cube_005.002
+    100180: Cube_005.003
+    100182: Cube_007
+    100184: Cube_007.001
+    100186: Cube_007.002
+    100188: Cube_007.003
+    100190: Door.L
+    100192: Door.L 1
+    100194: Door.L_end
+    100196: Door.L_end 1
+    100198: Door.R
+    100200: Door.R 1
+    100202: Door.R_end
+    100204: Door.R_end 1
+    100206: Door_Inside
+    100208: Door_Inside.001
+    100210: Door_Inside.002
+    100212: Door_Inside.003
+    100214: Door_Inside.004
+    100216: Door_Inside.005
+    100218: Door_Inside.006
+    100220: Door_main
+    100222: Door_main.001
+    100224: Door_slide
+    100226: Door_slide.001
+    100228: Door_slide.002
+    100230: Door_slide.003
+    100232: Door_slide.004
+    100234: Door_slide.005
+    100236: Door_wide.000
+    100238: Door_wide.001
+    100240: Door_wide.002
+    100242: Door_wide.003
+    100244: Door_wide.004
+    100246: Door_wide.005
+    100248: Door_wide.006
+    100250: Door_wide.007
+    100252: Door_wide.008
+    100254: Door_wide.009
+    100256: Door_wide.010
+    100258: Door_wide.011
+    100260: Door_wide.012
+    100262: Door_wide.013
+    100264: DoorFront
+    100266: DoorSlide
+    100268: DoorSlide.001
+    100270: DoorSlide_glass_R
+    100272: DoorSlide_glass_R.001
+    100274: DoorSlide_glass_R_001
+    100276: DoorSlide_glass_R_001.001
+    100278: Empty.000
+    100280: Empty.033
+    100282: Garage
+    100284: Garage.001
+    100286: gartentor part
+    100288: gartentor part.001
+    100290: gartentor part.002
+    100292: gartentor part.003
+    100294: gartentor part.004
+    100296: gartentor part.005
+    100298: gartentor part.006
+    100300: gartentor part.007
+    100302: gartentor part.008
+    100304: gartentor part.009
+    100306: gartentor part.010
+    100308: gartentor part.011
+    100310: gartentor part.012
+    100312: gartentor part.013
+    100314: gartentor part.014
+    100316: gartentor part.015
+    100318: gartentor part.016
+    100320: gartentor part.017
+    100322: gartentor part.018
+    100324: gartentor part.019
+    100326: gartentor part.020
+    100328: gartentor part.021
+    100330: gartentor part.022
+    100332: gartentor part.023
+    100334: gartentor part.024
+    100336: gartentor part.025
+    100338: gartentor part.026
+    100340: gartentor part.027
+    100342: gartentor part.028
+    100344: gartentor part.029
+    100346: gartentor part.030
+    100348: gartentor part.031
+    100350: //RootNode
+    100352: House_exterior.009
+    100354: master
+    100356: master 1
+    100358: master 2
+    100360: Plane.000
+    100362: Plane.001
+    100364: Plane.002
+    100366: Plane.003
+    100368: Plane.004
+    100370: Plane.005
+    100372: Plane.006
+    100374: Plane.007
+    100376: Plane.008
+    100378: Plane.009
+    100380: Plane.010
+    100382: Plane.012
+    100384: Plane.013
+    100386: Plane.014
+    100388: Plane.015
+    100390: Plane.016
+    100392: Plane.017
+    100394: Plane.018
+    100396: Window_narrow.000
+    100398: Window_narrow.001
+    100400: Window_narrow.002
+    100402: Window_narrow.003
+    100404: Window_narrow.004
+    100406: Window_narrow.005
+    100408: Window_narrow.006
+    100410: Window_narrow.007
+    100412: Window_narrow.008
+    100414: Window_narrow.009
+    100416: Window_narrow.010
+    100418: Window_narrow.011
+    100420: Window_narrow.012
+    100422: Window_narrow.013
+    100424: Window_narrow.014
+    100426: Window_narrow.015
+    100428: Window_narrow.016
+    100430: Window_narrow.017
+    100432: Window_narrow.018
+    100434: Window_narrow.019
+    100436: Window_narrow.020
+    100438: Window_narrow.021
+    100440: Window_narrow.022
+    100442: Window_narrow.023
+    100444: Window_narrow.024
+    100446: Window_narrow.025
+    100448: Window_narrow.026
+    100450: Window_narrow_glass.000
+    100452: Window_narrow_glass.001
+    100454: Window_narrow_glass.002
+    100456: Window_narrow_glass.003
+    100458: Window_narrow_glass.004
+    100460: Window_narrow_glass.005
+    100462: Window_narrow_glass.006
+    100464: Window_narrow_glass.007
+    100466: Window_narrow_glass.008
+    100468: Window_narrow_glass.009
+    100470: Window_narrow_glass.010
+    100472: Window_narrow_glass.011
+    100474: Window_narrow_glass.012
+    100476: Window_narrow_glass.013
+    100478: Window_narrow_glass.014
+    100480: Window_narrow_glass.015
+    100482: Window_narrow_glass.016
+    100484: Window_narrow_glass.017
+    400000: Bone
+    400002: Bone 1
+    400004: Bone 2
+    400006: Bone 3
+    400008: Bone 4
+    400010: Bone 5
+    400012: Bone 6
+    400014: Bone 7
+    400016: Bone 8
+    400018: Bone 9
+    400020: Bone.001
+    400022: Bone.001 1
+    400024: Bone.001 2
+    400026: Bone.001 3
+    400028: Bone.001 4
+    400030: Bone.001 5
+    400032: Bone.001 6
+    400034: Bone.001 7
+    400036: Bone.001 8
+    400038: Bone.002
+    400040: Bone.002 1
+    400042: Bone.003
+    400044: Bone.003 1
+    400046: Bone.004
+    400048: Bone.004 1
+    400050: Bone.005
+    400052: Bone.005 1
+    400054: Bone.006
+    400056: Bone.006 1
+    400058: Bone.007
+    400060: Bone.007 1
+    400062: Bone.008
+    400064: Bone.008 1
+    400066: Bone.009
+    400068: Bone.009 1
+    400070: Bone.010
+    400072: Bone.010 1
+    400074: Bone.011
+    400076: Bone.011 1
+    400078: Bone.012
+    400080: Bone.012 1
+    400082: Bone.013
+    400084: Bone.013 1
+    400086: Bone.014
+    400088: Bone.014 1
+    400090: Bone.015
+    400092: Bone.015 1
+    400094: Bone.015_end
+    400096: Bone.015_end 1
+    400098: Bone_end
+    400100: Bone_end 1
+    400102: Bone_end 2
+    400104: Bone_end 3
+    400106: Bone_end 4
+    400108: Bone_end 5
+    400110: Bone_end 6
+    400112: Bone_end 7
+    400114: Column_arch
+    400116: Column_arch.001
+    400118: Cube
+    400120: Cube.001
+    400122: Cube.002
+    400124: Cube.003
+    400126: Cube.004
+    400128: Cube.005
+    400130: Cube.006
+    400132: Cube.007
+    400134: Cube.008
+    400136: Cube.009
+    400138: Cube.010
+    400140: Cube.011
+    400142: Cube.012
+    400144: Cube.013
+    400146: Cube.014
+    400148: Cube.015
+    400150: Cube.016
+    400152: Cube.017
+    400154: Cube.018
+    400156: Cube.019
+    400158: Cube.020
+    400160: Cube.021
+    400162: Cube.022
+    400164: Cube.037
+    400166: Cube_001_001
+    400168: Cube_001_001.001
+    400170: Cube_001_001.002
+    400172: Cube_001_001.003
+    400174: Cube_005
+    400176: Cube_005.001
+    400178: Cube_005.002
+    400180: Cube_005.003
+    400182: Cube_007
+    400184: Cube_007.001
+    400186: Cube_007.002
+    400188: Cube_007.003
+    400190: Door.L
+    400192: Door.L 1
+    400194: Door.L_end
+    400196: Door.L_end 1
+    400198: Door.R
+    400200: Door.R 1
+    400202: Door.R_end
+    400204: Door.R_end 1
+    400206: Door_Inside
+    400208: Door_Inside.001
+    400210: Door_Inside.002
+    400212: Door_Inside.003
+    400214: Door_Inside.004
+    400216: Door_Inside.005
+    400218: Door_Inside.006
+    400220: Door_main
+    400222: Door_main.001
+    400224: Door_slide
+    400226: Door_slide.001
+    400228: Door_slide.002
+    400230: Door_slide.003
+    400232: Door_slide.004
+    400234: Door_slide.005
+    400236: Door_wide.000
+    400238: Door_wide.001
+    400240: Door_wide.002
+    400242: Door_wide.003
+    400244: Door_wide.004
+    400246: Door_wide.005
+    400248: Door_wide.006
+    400250: Door_wide.007
+    400252: Door_wide.008
+    400254: Door_wide.009
+    400256: Door_wide.010
+    400258: Door_wide.011
+    400260: Door_wide.012
+    400262: Door_wide.013
+    400264: DoorFront
+    400266: DoorSlide
+    400268: DoorSlide.001
+    400270: DoorSlide_glass_R
+    400272: DoorSlide_glass_R.001
+    400274: DoorSlide_glass_R_001
+    400276: DoorSlide_glass_R_001.001
+    400278: Empty.000
+    400280: Empty.033
+    400282: Garage
+    400284: Garage.001
+    400286: gartentor part
+    400288: gartentor part.001
+    400290: gartentor part.002
+    400292: gartentor part.003
+    400294: gartentor part.004
+    400296: gartentor part.005
+    400298: gartentor part.006
+    400300: gartentor part.007
+    400302: gartentor part.008
+    400304: gartentor part.009
+    400306: gartentor part.010
+    400308: gartentor part.011
+    400310: gartentor part.012
+    400312: gartentor part.013
+    400314: gartentor part.014
+    400316: gartentor part.015
+    400318: gartentor part.016
+    400320: gartentor part.017
+    400322: gartentor part.018
+    400324: gartentor part.019
+    400326: gartentor part.020
+    400328: gartentor part.021
+    400330: gartentor part.022
+    400332: gartentor part.023
+    400334: gartentor part.024
+    400336: gartentor part.025
+    400338: gartentor part.026
+    400340: gartentor part.027
+    400342: gartentor part.028
+    400344: gartentor part.029
+    400346: gartentor part.030
+    400348: gartentor part.031
+    400350: //RootNode
+    400352: House_exterior.009
+    400354: master
+    400356: master 1
+    400358: master 2
+    400360: Plane.000
+    400362: Plane.001
+    400364: Plane.002
+    400366: Plane.003
+    400368: Plane.004
+    400370: Plane.005
+    400372: Plane.006
+    400374: Plane.007
+    400376: Plane.008
+    400378: Plane.009
+    400380: Plane.010
+    400382: Plane.012
+    400384: Plane.013
+    400386: Plane.014
+    400388: Plane.015
+    400390: Plane.016
+    400392: Plane.017
+    400394: Plane.018
+    400396: Window_narrow.000
+    400398: Window_narrow.001
+    400400: Window_narrow.002
+    400402: Window_narrow.003
+    400404: Window_narrow.004
+    400406: Window_narrow.005
+    400408: Window_narrow.006
+    400410: Window_narrow.007
+    400412: Window_narrow.008
+    400414: Window_narrow.009
+    400416: Window_narrow.010
+    400418: Window_narrow.011
+    400420: Window_narrow.012
+    400422: Window_narrow.013
+    400424: Window_narrow.014
+    400426: Window_narrow.015
+    400428: Window_narrow.016
+    400430: Window_narrow.017
+    400432: Window_narrow.018
+    400434: Window_narrow.019
+    400436: Window_narrow.020
+    400438: Window_narrow.021
+    400440: Window_narrow.022
+    400442: Window_narrow.023
+    400444: Window_narrow.024
+    400446: Window_narrow.025
+    400448: Window_narrow.026
+    400450: Window_narrow_glass.000
+    400452: Window_narrow_glass.001
+    400454: Window_narrow_glass.002
+    400456: Window_narrow_glass.003
+    400458: Window_narrow_glass.004
+    400460: Window_narrow_glass.005
+    400462: Window_narrow_glass.006
+    400464: Window_narrow_glass.007
+    400466: Window_narrow_glass.008
+    400468: Window_narrow_glass.009
+    400470: Window_narrow_glass.010
+    400472: Window_narrow_glass.011
+    400474: Window_narrow_glass.012
+    400476: Window_narrow_glass.013
+    400478: Window_narrow_glass.014
+    400480: Window_narrow_glass.015
+    400482: Window_narrow_glass.016
+    400484: Window_narrow_glass.017
+    2300000: Column_arch
+    2300002: Column_arch.001
+    2300004: Cube
+    2300006: Cube.001
+    2300008: Cube.002
+    2300010: Cube.003
+    2300012: Cube.004
+    2300014: Cube.005
+    2300016: Cube.006
+    2300018: Cube.007
+    2300020: Cube.008
+    2300022: Cube.009
+    2300024: Cube.010
+    2300026: Cube.011
+    2300028: Cube.012
+    2300030: Cube.013
+    2300032: Cube.014
+    2300034: Cube.015
+    2300036: Cube.016
+    2300038: Cube.017
+    2300040: Cube.018
+    2300042: Cube.019
+    2300044: Cube.020
+    2300046: Cube.021
+    2300048: Cube.022
+    2300050: Cube.037
+    2300052: Cube_001_001
+    2300054: Cube_001_001.001
+    2300056: Cube_001_001.002
+    2300058: Cube_001_001.003
+    2300060: Cube_005
+    2300062: Cube_005.001
+    2300064: Cube_005.002
+    2300066: Cube_005.003
+    2300068: Cube_007
+    2300070: Cube_007.001
+    2300072: Cube_007.002
+    2300074: Cube_007.003
+    2300076: Door_main
+    2300078: Door_main.001
+    2300080: Door_slide
+    2300082: Door_slide.001
+    2300084: Door_slide.002
+    2300086: Door_slide.003
+    2300088: Door_slide.004
+    2300090: Door_slide.005
+    2300092: Door_wide.000
+    2300094: Door_wide.001
+    2300096: Door_wide.002
+    2300098: Door_wide.003
+    2300100: Door_wide.004
+    2300102: Door_wide.005
+    2300104: Door_wide.006
+    2300106: Door_wide.007
+    2300108: Door_wide.008
+    2300110: Door_wide.009
+    2300112: Door_wide.010
+    2300114: Door_wide.011
+    2300116: Door_wide.012
+    2300118: Door_wide.013
+    2300120: DoorSlide_glass_R
+    2300122: DoorSlide_glass_R.001
+    2300124: DoorSlide_glass_R_001
+    2300126: DoorSlide_glass_R_001.001
+    2300128: gartentor part
+    2300130: gartentor part.001
+    2300132: gartentor part.002
+    2300134: gartentor part.003
+    2300136: gartentor part.004
+    2300138: gartentor part.005
+    2300140: gartentor part.006
+    2300142: gartentor part.007
+    2300144: gartentor part.008
+    2300146: gartentor part.009
+    2300148: gartentor part.010
+    2300150: gartentor part.011
+    2300152: gartentor part.012
+    2300154: gartentor part.013
+    2300156: gartentor part.014
+    2300158: gartentor part.015
+    2300160: gartentor part.016
+    2300162: gartentor part.017
+    2300164: gartentor part.018
+    2300166: gartentor part.019
+    2300168: gartentor part.020
+    2300170: gartentor part.021
+    2300172: gartentor part.022
+    2300174: gartentor part.023
+    2300176: gartentor part.024
+    2300178: gartentor part.025
+    2300180: gartentor part.026
+    2300182: gartentor part.027
+    2300184: gartentor part.028
+    2300186: gartentor part.029
+    2300188: gartentor part.030
+    2300190: gartentor part.031
+    2300192: House_exterior.009
+    2300194: Plane.000
+    2300196: Plane.001
+    2300198: Plane.002
+    2300200: Plane.003
+    2300202: Plane.004
+    2300204: Plane.005
+    2300206: Plane.006
+    2300208: Plane.007
+    2300210: Plane.008
+    2300212: Plane.009
+    2300214: Plane.010
+    2300216: Plane.012
+    2300218: Plane.013
+    2300220: Plane.014
+    2300222: Plane.015
+    2300224: Plane.016
+    2300226: Plane.017
+    2300228: Plane.018
+    2300230: Window_narrow.000
+    2300232: Window_narrow.001
+    2300234: Window_narrow.002
+    2300236: Window_narrow.003
+    2300238: Window_narrow.004
+    2300240: Window_narrow.005
+    2300242: Window_narrow.006
+    2300244: Window_narrow.007
+    2300246: Window_narrow.008
+    2300248: Window_narrow.009
+    2300250: Window_narrow.010
+    2300252: Window_narrow.011
+    2300254: Window_narrow.012
+    2300256: Window_narrow.013
+    2300258: Window_narrow.014
+    2300260: Window_narrow.015
+    2300262: Window_narrow.016
+    2300264: Window_narrow.017
+    2300266: Window_narrow.018
+    2300268: Window_narrow.019
+    2300270: Window_narrow.020
+    2300272: Window_narrow.021
+    2300274: Window_narrow.022
+    2300276: Window_narrow.023
+    2300278: Window_narrow.024
+    2300280: Window_narrow.025
+    2300282: Window_narrow.026
+    2300284: Window_narrow_glass.000
+    2300286: Window_narrow_glass.001
+    2300288: Window_narrow_glass.002
+    2300290: Window_narrow_glass.003
+    2300292: Window_narrow_glass.004
+    2300294: Window_narrow_glass.005
+    2300296: Window_narrow_glass.006
+    2300298: Window_narrow_glass.007
+    2300300: Window_narrow_glass.008
+    2300302: Window_narrow_glass.009
+    2300304: Window_narrow_glass.010
+    2300306: Window_narrow_glass.011
+    2300308: Window_narrow_glass.012
+    2300310: Window_narrow_glass.013
+    2300312: Window_narrow_glass.014
+    2300314: Window_narrow_glass.015
+    2300316: Window_narrow_glass.016
+    2300318: Window_narrow_glass.017
+    3300000: Column_arch
+    3300002: Column_arch.001
+    3300004: Cube
+    3300006: Cube.001
+    3300008: Cube.002
+    3300010: Cube.003
+    3300012: Cube.004
+    3300014: Cube.005
+    3300016: Cube.006
+    3300018: Cube.007
+    3300020: Cube.008
+    3300022: Cube.009
+    3300024: Cube.010
+    3300026: Cube.011
+    3300028: Cube.012
+    3300030: Cube.013
+    3300032: Cube.014
+    3300034: Cube.015
+    3300036: Cube.016
+    3300038: Cube.017
+    3300040: Cube.018
+    3300042: Cube.019
+    3300044: Cube.020
+    3300046: Cube.021
+    3300048: Cube.022
+    3300050: Cube.037
+    3300052: Cube_001_001
+    3300054: Cube_001_001.001
+    3300056: Cube_001_001.002
+    3300058: Cube_001_001.003
+    3300060: Cube_005
+    3300062: Cube_005.001
+    3300064: Cube_005.002
+    3300066: Cube_005.003
+    3300068: Cube_007
+    3300070: Cube_007.001
+    3300072: Cube_007.002
+    3300074: Cube_007.003
+    3300076: Door_main
+    3300078: Door_main.001
+    3300080: Door_slide
+    3300082: Door_slide.001
+    3300084: Door_slide.002
+    3300086: Door_slide.003
+    3300088: Door_slide.004
+    3300090: Door_slide.005
+    3300092: Door_wide.000
+    3300094: Door_wide.001
+    3300096: Door_wide.002
+    3300098: Door_wide.003
+    3300100: Door_wide.004
+    3300102: Door_wide.005
+    3300104: Door_wide.006
+    3300106: Door_wide.007
+    3300108: Door_wide.008
+    3300110: Door_wide.009
+    3300112: Door_wide.010
+    3300114: Door_wide.011
+    3300116: Door_wide.012
+    3300118: Door_wide.013
+    3300120: DoorSlide_glass_R
+    3300122: DoorSlide_glass_R.001
+    3300124: DoorSlide_glass_R_001
+    3300126: DoorSlide_glass_R_001.001
+    3300128: gartentor part
+    3300130: gartentor part.001
+    3300132: gartentor part.002
+    3300134: gartentor part.003
+    3300136: gartentor part.004
+    3300138: gartentor part.005
+    3300140: gartentor part.006
+    3300142: gartentor part.007
+    3300144: gartentor part.008
+    3300146: gartentor part.009
+    3300148: gartentor part.010
+    3300150: gartentor part.011
+    3300152: gartentor part.012
+    3300154: gartentor part.013
+    3300156: gartentor part.014
+    3300158: gartentor part.015
+    3300160: gartentor part.016
+    3300162: gartentor part.017
+    3300164: gartentor part.018
+    3300166: gartentor part.019
+    3300168: gartentor part.020
+    3300170: gartentor part.021
+    3300172: gartentor part.022
+    3300174: gartentor part.023
+    3300176: gartentor part.024
+    3300178: gartentor part.025
+    3300180: gartentor part.026
+    3300182: gartentor part.027
+    3300184: gartentor part.028
+    3300186: gartentor part.029
+    3300188: gartentor part.030
+    3300190: gartentor part.031
+    3300192: House_exterior.009
+    3300194: Plane.000
+    3300196: Plane.001
+    3300198: Plane.002
+    3300200: Plane.003
+    3300202: Plane.004
+    3300204: Plane.005
+    3300206: Plane.006
+    3300208: Plane.007
+    3300210: Plane.008
+    3300212: Plane.009
+    3300214: Plane.010
+    3300216: Plane.012
+    3300218: Plane.013
+    3300220: Plane.014
+    3300222: Plane.015
+    3300224: Plane.016
+    3300226: Plane.017
+    3300228: Plane.018
+    3300230: Window_narrow.000
+    3300232: Window_narrow.001
+    3300234: Window_narrow.002
+    3300236: Window_narrow.003
+    3300238: Window_narrow.004
+    3300240: Window_narrow.005
+    3300242: Window_narrow.006
+    3300244: Window_narrow.007
+    3300246: Window_narrow.008
+    3300248: Window_narrow.009
+    3300250: Window_narrow.010
+    3300252: Window_narrow.011
+    3300254: Window_narrow.012
+    3300256: Window_narrow.013
+    3300258: Window_narrow.014
+    3300260: Window_narrow.015
+    3300262: Window_narrow.016
+    3300264: Window_narrow.017
+    3300266: Window_narrow.018
+    3300268: Window_narrow.019
+    3300270: Window_narrow.020
+    3300272: Window_narrow.021
+    3300274: Window_narrow.022
+    3300276: Window_narrow.023
+    3300278: Window_narrow.024
+    3300280: Window_narrow.025
+    3300282: Window_narrow.026
+    3300284: Window_narrow_glass.000
+    3300286: Window_narrow_glass.001
+    3300288: Window_narrow_glass.002
+    3300290: Window_narrow_glass.003
+    3300292: Window_narrow_glass.004
+    3300294: Window_narrow_glass.005
+    3300296: Window_narrow_glass.006
+    3300298: Window_narrow_glass.007
+    3300300: Window_narrow_glass.008
+    3300302: Window_narrow_glass.009
+    3300304: Window_narrow_glass.010
+    3300306: Window_narrow_glass.011
+    3300308: Window_narrow_glass.012
+    3300310: Window_narrow_glass.013
+    3300312: Window_narrow_glass.014
+    3300314: Window_narrow_glass.015
+    3300316: Window_narrow_glass.016
+    3300318: Window_narrow_glass.017
+    4300000: Plane.007
+    4300002: Plane.006
+    4300004: Plane.005
+    4300006: Cube.022
+    4300008: Cube.021
+    4300010: Cube.020
+    4300012: Cube.019
+    4300014: Cube.018
+    4300016: Cube.017
+    4300018: Cube.016
+    4300020: Cube.015
+    4300022: Cube.014
+    4300024: gartentor part.016
+    4300026: gartentor part.017
+    4300028: gartentor part.018
+    4300030: gartentor part.019
+    4300032: gartentor part.020
+    4300034: gartentor part.021
+    4300036: gartentor part.022
+    4300038: gartentor part.023
+    4300040: gartentor part.024
+    4300042: gartentor part.025
+    4300044: gartentor part.026
+    4300046: gartentor part.027
+    4300048: gartentor part.028
+    4300050: gartentor part.029
+    4300052: gartentor part.030
+    4300054: gartentor part.031
+    4300056: Door_slide.005
+    4300058: Door_slide.004
+    4300060: DoorSlide_glass_R_001.001
+    4300062: Door_slide.003
+    4300064: DoorSlide_glass_R.001
+    4300066: Door_wide.013
+    4300068: Door_wide.012
+    4300070: Door_wide.010
+    4300072: Door_wide.011
+    4300074: Door_wide.009
+    4300076: Door_wide.008
+    4300078: Door_wide.005
+    4300080: Door_wide.007
+    4300082: Door_wide.004
+    4300084: Door_wide.003
+    4300086: Door_wide.001
+    4300088: Door_wide.002
+    4300090: Window_narrow.024
+    4300092: Window_narrow.026
+    4300094: Window_narrow_glass.017
+    4300096: Window_narrow.025
+    4300098: Window_narrow_glass.016
+    4300100: Window_narrow.021
+    4300102: Window_narrow.023
+    4300104: Window_narrow_glass.015
+    4300106: Window_narrow.022
+    4300108: Window_narrow_glass.014
+    4300110: Window_narrow.018
+    4300112: Window_narrow.020
+    4300114: Window_narrow_glass.013
+    4300116: Window_narrow.019
+    4300118: Window_narrow_glass.012
+    4300120: Window_narrow.015
+    4300122: Window_narrow.017
+    4300124: Window_narrow_glass.011
+    4300126: Window_narrow.016
+    4300128: Window_narrow_glass.010
+    4300130: Window_narrow.012
+    4300132: Window_narrow.014
+    4300134: Window_narrow_glass.009
+    4300136: Window_narrow.013
+    4300138: Window_narrow_glass.008
+    4300140: Window_narrow.009
+    4300142: Window_narrow.011
+    4300144: Window_narrow_glass.007
+    4300146: Window_narrow.010
+    4300148: Window_narrow_glass.006
+    4300150: Window_narrow.006
+    4300152: Window_narrow.008
+    4300154: Window_narrow_glass.005
+    4300156: Window_narrow.007
+    4300158: Window_narrow_glass.004
+    4300160: Window_narrow.000
+    4300162: Window_narrow.002
+    4300164: Window_narrow_glass.001
+    4300166: Window_narrow.001
+    4300168: Window_narrow_glass.000
+    4300170: Cube.011
+    4300172: Cube_001_001.003
+    4300174: Cube.013
+    4300176: Cube_007.003
+    4300178: Cube.012
+    4300180: Cube_005.003
+    4300182: Cube.008
+    4300184: Cube.010
+    4300186: Cube_005.002
+    4300188: Cube.009
+    4300190: Cube_007.002
+    4300192: Cube_001_001.002
+    4300194: Cube.005
+    4300196: Cube_001_001.001
+    4300198: Cube.007
+    4300200: Cube_007.001
+    4300202: Cube.006
+    4300204: Cube_005.001
+    4300206: Door_main.001
+    4300208: Door_main
+    4300210: Door_wide.000
+    4300212: Door_wide.006
+    4300214: Door_slide
+    4300216: Door_slide.001
+    4300218: DoorSlide_glass_R_001
+    4300220: Door_slide.002
+    4300222: DoorSlide_glass_R
+    4300224: Window_narrow.003
+    4300226: Window_narrow.005
+    4300228: Window_narrow_glass.003
+    4300230: Window_narrow.004
+    4300232: Window_narrow_glass.002
+    4300234: Column_arch.001
+    4300236: Plane.010
+    4300238: Plane.009
+    4300240: Plane.008
+    4300242: Plane.000
+    4300244: Cube.001
+    4300246: Plane.018
+    4300248: Plane.015
+    4300250: Plane.001
+    4300252: Plane.017
+    4300254: Plane.016
+    4300256: Plane.014
+    4300258: Plane.002
+    4300260: Plane.004
+    4300262: Plane.013
+    4300264: Column_arch
+    4300266: Plane.012
+    4300268: Plane.003
+    4300270: House_exterior.009
+    4300272: Cube.004
+    4300274: Cube
+    4300276: Cube.003
+    4300278: Cube_005
+    4300280: Cube.002
+    4300282: Cube_007
+    4300284: Cube_001_001
+    4300286: Cube.037
+    4300288: gartentor part
+    4300290: gartentor part.001
+    4300292: gartentor part.002
+    4300294: gartentor part.003
+    4300296: gartentor part.004
+    4300298: gartentor part.005
+    4300300: gartentor part.006
+    4300302: gartentor part.007
+    4300304: gartentor part.008
+    4300306: gartentor part.009
+    4300308: gartentor part.010
+    4300310: gartentor part.011
+    4300312: gartentor part.012
+    4300314: gartentor part.013
+    4300316: gartentor part.014
+    4300318: gartentor part.015
+    7400000: Garage.001|DoorInside_Open
+    7400002: Garage.001|DoorInside_Open.001
+    7400004: Garage.001|DoorInside_Open.002
+    7400006: Garage.001|DoorInside_Open.003
+    7400008: Garage.001|DoorInside_Open.004
+    7400010: Garage.001|DoorInside_Open.005
+    7400012: Garage.001|DoorInside_Open.006
+    7400014: Garage.001|DoorInside_Shut
+    7400016: Garage.001|Garage
+    7400018: Garage.001|Garage.004
+    7400020: Garage.001|Garage.005
+    7400022: Garage.001|Garage.006
+    7400024: Garage.001|Garage.007
+    7400026: gartentor part.017|Garage.005
+    7400028: DoorSlide.001|DoorSlide_Open
+    7400030: DoorSlide.001|DoorSlide_Open.001
+    7400032: DoorSlide.001|DoorSlide_Shut
+    7400034: Door_Inside.006|DoorInside_Open
+    7400036: Door_Inside.006|DoorInside_Open.001
+    7400038: Door_Inside.006|DoorInside_Open.002
+    7400040: Door_Inside.006|DoorInside_Open.003
+    7400042: Door_Inside.006|DoorInside_Open.004
+    7400044: Door_Inside.006|DoorInside_Open.005
+    7400046: Door_Inside.006|DoorInside_Open.006
+    7400048: Door_Inside.006|DoorInside_Shut
+    7400050: Door_Inside.005|DoorInside_Open
+    7400052: Door_Inside.005|DoorInside_Open.001
+    7400054: Door_Inside.005|DoorInside_Open.002
+    7400056: Door_Inside.005|DoorInside_Open.003
+    7400058: Door_Inside.005|DoorInside_Open.004
+    7400060: Door_Inside.005|DoorInside_Open.005
+    7400062: Door_Inside.005|DoorInside_Open.006
+    7400064: Door_Inside.005|DoorInside_Shut
+    7400066: Door_Inside.004|DoorInside_Open
+    7400068: Door_Inside.004|DoorInside_Open.001
+    7400070: Door_Inside.004|DoorInside_Open.002
+    7400072: Door_Inside.004|DoorInside_Open.003
+    7400074: Door_Inside.004|DoorInside_Open.004
+    7400076: Door_Inside.004|DoorInside_Open.005
+    7400078: Door_Inside.004|DoorInside_Open.006
+    7400080: Door_Inside.004|DoorInside_Shut
+    7400082: Door_Inside.003|DoorInside_Open
+    7400084: Door_Inside.003|DoorInside_Open.001
+    7400086: Door_Inside.003|DoorInside_Open.002
+    7400088: Door_Inside.003|DoorInside_Open.003
+    7400090: Door_Inside.003|DoorInside_Open.004
+    7400092: Door_Inside.003|DoorInside_Open.005
+    7400094: Door_Inside.003|DoorInside_Open.006
+    7400096: Door_Inside.003|DoorInside_Shut
+    7400098: Door_Inside.002|DoorInside_Open
+    7400100: Door_Inside.002|DoorInside_Open.001
+    7400102: Door_Inside.002|DoorInside_Open.002
+    7400104: Door_Inside.002|DoorInside_Open.003
+    7400106: Door_Inside.002|DoorInside_Open.004
+    7400108: Door_Inside.002|DoorInside_Open.005
+    7400110: Door_Inside.002|DoorInside_Open.006
+    7400112: Door_Inside.002|DoorInside_Shut
+    7400114: Door_Inside.001|DoorInside_Open
+    7400116: Door_Inside.001|DoorInside_Open.001
+    7400118: Door_Inside.001|DoorInside_Open.002
+    7400120: Door_Inside.001|DoorInside_Open.003
+    7400122: Door_Inside.001|DoorInside_Open.004
+    7400124: Door_Inside.001|DoorInside_Open.005
+    7400126: Door_Inside.001|DoorInside_Open.006
+    7400128: Door_Inside.001|DoorInside_Shut
+    7400130: DoorFront|DoorFront_Open
+    7400132: DoorFront|DoorFront_Shut
+    7400134: Door_Inside|DoorInside_Open
+    7400136: Door_Inside|DoorInside_Open.001
+    7400138: Door_Inside|DoorInside_Open.002
+    7400140: Door_Inside|DoorInside_Open.003
+    7400142: Door_Inside|DoorInside_Open.004
+    7400144: Door_Inside|DoorInside_Open.005
+    7400146: Door_Inside|DoorInside_Open.006
+    7400148: Door_Inside|DoorInside_Shut
+    7400150: DoorSlide|DoorSlide_Open
+    7400152: DoorSlide|DoorSlide_Open.001
+    7400154: DoorSlide|DoorSlide_Shut
+    7400156: Garage|DoorInside_Open
+    7400158: Garage|DoorInside_Open.001
+    7400160: Garage|DoorInside_Open.002
+    7400162: Garage|DoorInside_Open.003
+    7400164: Garage|DoorInside_Open.004
+    7400166: Garage|DoorInside_Open.005
+    7400168: Garage|DoorInside_Open.006
+    7400170: Garage|DoorInside_Shut
+    7400172: Garage|Garage
+    7400174: Garage|Garage.004
+    7400176: Garage|Garage.005
+    7400178: Garage|Garage.006
+    7400180: Garage|Garage.007
+    7400182: gartentor part.001|Garage
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet
+    second: {fileID: 2100000, guid: 24fb232f48535204480cea569017158c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chimney
+    second: {fileID: 2100000, guid: 5836d5bb6b4816647a543e39008b87fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete
+    second: {fileID: 2100000, guid: ecd071182f0527f41bc27afb59f538a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_ Interior
+    second: {fileID: 2100000, guid: 4e5c4ec7f8fd33f4fa8b399e558300bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Front
+    second: {fileID: 2100000, guid: aecb453ad441adf4aa29615098408e23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Garage
+    second: {fileID: 2100000, guid: 7ad3c3e4e2872834fb12063f5dbf9e42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Slide
+    second: {fileID: 2100000, guid: 60c25f0e5956b784c858b9c05f72c885, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Entrance_Feature
+    second: {fileID: 2100000, guid: ed3d72cfeb577c74a94261655ecf72b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Garage
+    second: {fileID: 2100000, guid: 655a51fce3f63484aafe0a96389dc521, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gutter
+    second: {fileID: 2100000, guid: b040479e80b409a4baca0da98cfedcad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof
+    second: {fileID: 2100000, guid: d4c8298a125cada45bbef74c33c24ea5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tile_Entrance
+    second: {fileID: 2100000, guid: 006a5bfd728631c4082ebf180d2df7aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls_Exterior
+    second: {fileID: 2100000, guid: 023e428cacdc6824f8a572f44e686d43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls_Interior
+    second: {fileID: 2100000, guid: 180fbd806d1cd9d49b3077fe2a602e5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls_Interior2
+    second: {fileID: 2100000, guid: d6ef4d2d72653ca4195dbf8c362b02d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls_InteriorRoof
+    second: {fileID: 2100000, guid: 537414d2d5919e9448fc575ab31b97e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_1
+    second: {fileID: 2100000, guid: 8032d32350167724e89ca7911e46d040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_2
+    second: {fileID: 2100000, guid: 75971a6eb70f89d418a8b089c60378ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: 914c99a8135e15448bb8b7241aea149c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: d25346af9ac8aa94b99f6aff8480aa3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: path
+    second: {fileID: 2100000, guid: bd24750edc77e5b4d86513da9ad503be, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
