@@ -15,8 +15,9 @@ public class GameManagerFlores : MonoBehaviour
     public GameObject gesturePointer;
     //El tiempo de espera entre cada estado asignado desde el editor
     public float time;
-
-
+    //canvas de final de juego
+    public GameObject canvFinal;
+   
     private static float waitTime;
     //private bool doTutorial;
     //private bool isPlaying;
@@ -148,7 +149,9 @@ public class GameManagerFlores : MonoBehaviour
         //Chequea si la lista de colores esta vacia para cambiar al estado de TIEMPOS.
         if (colorsList.Count == 0)
         {
-            //CAmbiar al estado TIEMPOS
+            //activamos el canvas de final de juego
+            yield return new WaitForSeconds(1);
+            canvFinal.SetActive(true);
 
         }
         else
